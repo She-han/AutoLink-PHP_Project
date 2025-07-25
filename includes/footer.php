@@ -17,11 +17,11 @@
                     <div class="ftco-footer-widget mb-4 ml-md-5">
                         <h2 class="ftco-heading-2">Information</h2>
                         <ul class="list-unstyled">
-                            <li><a href="<?= SITE_URL ?>/about.php" class="py-2 d-block">About</a></li>
-                            <li><a href="<?= SITE_URL ?>/services.php" class="py-2 d-block">Services</a></li>
-                            <li><a href="<?= SITE_URL ?>/pricing.php" class="py-2 d-block">Term and Conditions</a></li>
-                            <li><a href="<?= SITE_URL ?>/pricing.php" class="py-2 d-block">Best Price Guarantee</a></li>
-                            <li><a href="<?= SITE_URL ?>/pricing.php" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
+                            <li><a href="about.php" class="py-2 d-block">About</a></li>
+                            <li><a href="services.php" class="py-2 d-block">Services</a></li>
+                            <li><a href="pricing.php" class="py-2 d-block">Term and Conditions</a></li>
+                            <li><a href="pricing.php" class="py-2 d-block">Best Price Guarantee</a></li>
+                            <li><a href="pricing.php" class="py-2 d-block">Privacy &amp; Cookies Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -29,11 +29,11 @@
                     <div class="ftco-footer-widget mb-4">
                         <h2 class="ftco-heading-2">Customer Support</h2>
                         <ul class="list-unstyled">
-                            <li><a href="<?= SITE_URL ?>/contact.php" class="py-2 d-block">FAQ</a></li>
-                            <li><a href="<?= SITE_URL ?>/contact.php" class="py-2 d-block">Payment Option</a></li>
-                            <li><a href="<?= SITE_URL ?>/contact.php" class="py-2 d-block">Booking Tips</a></li>
-                            <li><a href="<?= SITE_URL ?>/contact.php" class="py-2 d-block">How it works</a></li>
-                            <li><a href="<?= SITE_URL ?>/contact.php" class="py-2 d-block">Contact Us</a></li>
+                            <li><a href="contact.php" class="py-2 d-block">FAQ</a></li>
+                            <li><a href="contact.php" class="py-2 d-block">Payment Option</a></li>
+                            <li><a href="contact.php" class="py-2 d-block">Booking Tips</a></li>
+                            <li><a href="contact.php" class="py-2 d-block">How it works</a></li>
+                            <li><a href="contact.php" class="py-2 d-block">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -66,22 +66,22 @@
         </svg>
     </div>
 
-    <script src="<?= SITE_URL ?>/assets/js/jquery.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/jquery-migrate-3.0.1.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/popper.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/bootstrap.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/jquery.easing.1.3.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/jquery.waypoints.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/jquery.stellar.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/owl.carousel.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/aos.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/jquery.animateNumber.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/bootstrap-datepicker.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/jquery.timepicker.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/scrollax.min.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/google-map.js"></script>
-    <script src="<?= SITE_URL ?>/assets/js/main.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.easing.1.3.js"></script>
+    <script src="assets/js/jquery.waypoints.min.js"></script>
+    <script src="assets/js/jquery.stellar.min.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/aos.js"></script>
+    <script src="assets/js/jquery.animateNumber.min.js"></script>
+    <script src="assets/js/bootstrap-datepicker.js"></script>
+    <script src="assets/js/jquery.timepicker.min.js"></script>
+    <script src="assets/js/scrollax.min.js"></script>
+    <script src="assets/js/google-map.js"></script>
+    <script src="assets/js/main.js"></script>
 
 </body>
 </html>

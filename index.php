@@ -5,7 +5,7 @@ include 'includes/header.php';
 ?>
 
     
-    <div class="hero-wrap ftco-degree-bg" style="background-image: url('assets/assets/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap ftco-degree-bg" style="background-image: url('assets/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text justify-content-start align-items-center justify-content-center">
@@ -113,7 +113,7 @@ include 'includes/header.php';
     				<div class="carousel-car owl-carousel">
     					<div class="item">
     						<div class="car-wrap rounded ftco-animate">
-		    					<div class="img rounded d-flex align-items-end" style="background-image: url(assets/assets/images/car-1.jpg);">
+		    					<div class="img rounded d-flex align-items-end" style="background-image: url(assets/images/car-1.jpg);">
 		    					</div>
 		    					<div class="text">
 		    						<h2 class="mb-0"><a href="#">Mercedes Grand Sedan</a></h2>
